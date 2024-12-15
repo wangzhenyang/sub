@@ -7,6 +7,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/wangzhenyang/sub/ma
 ```
 wget https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u -O iptv/ipv4.m3u
 ```
+new addr: https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u
 
 # tvbox 
 https://www.lige.fit/tvbox
