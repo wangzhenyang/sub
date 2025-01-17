@@ -23,6 +23,9 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/ma
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 
+https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+
+
 
 # tvbox 
 https://www.lige.fit/tvbox
