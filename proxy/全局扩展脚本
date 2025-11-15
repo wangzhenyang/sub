@@ -1,0 +1,33 @@
+// Define main function (script entry)
+
+// function main(config, profileName) {
+//   return config;
+// }
+
+function main(config, profileName) {
+  const prependProxies = [
+    {
+      "name": "zuoyebang",
+      "type": "socks5",
+      "server": "192.168.1.111",
+      "port": "1080"
+    }
+  ];
+  config.proxies = prependProxies.concat(config.proxies);
+
+  const prependProxyGroups = [
+    {
+      "name": "公司代理",
+      "type": "select",
+      "proxies": ["🎯 全球直连", "zuoyebang"]
+    }
+  ];
+  config['proxy-groups'] = prependProxyGroups.concat(config['proxy-groups']);
+
+  const prependRules = [
+    'DOMAIN-SUFFIX,zuoyebang.cc,公司代理'
+  ];
+  config.rules = prependRules.concat(config.rules);
+
+  return config;
+}
