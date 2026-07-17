@@ -1,8 +1,11 @@
 clash
 http://192.168.0.111:25500/sub?target=clash&url=https%3A%2F%2Fghfast.top%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fwangzhenyang%2Fsub%2Fmaster%2Fproxy%2Fsub
+http://seoula.wangzhy.dpdns.org:25500/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwangzhenyang%2Fsub%2Frefs%2Fheads%2Fmaster%2Fproxy%2Fsub.bj
+
 
 sing-box
 http://192.168.0.111:25500/sub?target=singbox&url=https%3A%2F%2Fghfast.top%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fwangzhenyang%2Fsub%2Fmaster%2Fproxy%2Fsub
 
 sub
-https://ghfast.top/https://raw.githubusercontent.com/wangzhenyang/sub/master/proxy/sub
+https://raw.githubusercontent.com/wangzhenyang/sub/master/proxy/sub
+https://raw.githubusercontent.com/wangzhenyang/sub/refs/heads/master/proxy/sub.bj
